@@ -1,13 +1,4 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
-
 ## Clone git repository
-
-
-
 ```bash
 git clone https://github.com/HassanTariqAlvi/React-NodeAPI-MySQLt
 ```
