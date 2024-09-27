@@ -110,4 +110,5 @@ server {
 sudo ln -s /etc/nginx/sites-available/devops /etc/nginx/sites-enabled/devops
 sudo systemctl restart nginx
 ```
-## Final
+## Finally
+![Capture21](https://github.com/user-attachments/assets/de659885-e072-443e-98e2-c663c50f2ed6)
