@@ -69,6 +69,7 @@ aws configure
 ```
 
 3- Build frontend and create dist folder
+
 4- copy folder to s3 bucket
 ```http
  aws s3 sync ./dist s3://abdul-hadi88 --region us-east-1
