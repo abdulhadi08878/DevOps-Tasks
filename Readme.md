@@ -6,3 +6,13 @@
   * Deployed build file of React on S3 bucket, backend on EC2, MYSQL database through RDS.
 ## Task 3:
   * CI / CD using github actions runner , frontend on s3 and backend on server.
+## Task 4:
+  - Autoscaling and load balancer practical view
+## Task 5:
+  - Docker and Docker compose
+## Task 6:
+   - ECS
+## Task7:
+   - Kubernetes Cluster With EKS
+## Task 8:
+   - AWS ACM
